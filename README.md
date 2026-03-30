@@ -41,7 +41,7 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 <h3 align="left">🫩 Languages and Tools::</h3>
 
 <p align="center">
-  <img src="https://github.com/Szqore/Szqore/blob/main/Java.png?raw=true" width="700">
+  <img src="https://github.com/Szqore/Szqore/blob/main/Java.png?raw=true" width="100">
 </p>
 
 ---
