@@ -24,9 +24,9 @@
 
 ---
 
-<img align="right" src="https://github.com/user-attachments/assets/26c27ef6-9b9d-4113-ba27-2ca161aeb3bd" width="250">
+<img align="right" src="https://github.com/Szqore/Szqore/blob/main/Zamok.jpg?raw=true" width="250">
 
-<big><b>About Me:</b></big>
+<big><b>👁‍🗨 About Me:</b></big>
 
 I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 
@@ -37,7 +37,7 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 <br clear="both"/>
 ---
 
-<h3 align="left">⛓️ Languages and Tools::</h3>
+<h3 align="left">🫩 Languages and Tools::</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
