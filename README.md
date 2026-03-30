@@ -52,6 +52,7 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
   <img src="https://github-readme-stats.vercel.app/api?username=Szqore&show_icons=true&theme=radical">
 </p>
 
+
 ---
 
 <h3 align="left">♠️ LeetCode Statistics:</h3>
