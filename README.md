@@ -8,7 +8,7 @@
   <a href="https://rutube.ru/channel/27111841/">
     <img src="https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=red">
   </a>
-  <a href="https://discord.gg/ВАША_ССЫЛКА">
+  <a href="https://discord.gg/a5m3uzeF2g">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://leetcode.com/Szqore/">
