@@ -54,7 +54,7 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 
 ---
 
-<h3 align="left">♠️ LeetCode Statistics:</h3>
+<h3 align="left">♦️ LeetCode Statistics:</h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Szqore?theme=dark&font=Source%20Code%20Pro">
