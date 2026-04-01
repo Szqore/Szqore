@@ -36,7 +36,7 @@
 
 I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 
-- I study at **NHTK College** with a cool guy **Delabor**
+- I am student
 - Learning programming and diving into the world of code
 - In my free time, I play games or shoot cool videos
 
