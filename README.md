@@ -37,7 +37,7 @@
 I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 
 - I am student
-- Learning programming and diving into the world of code
+- I'm a beginner and an unknown developer in Java
 - In my free time, I play games or shoot cool videos
 
 <br clear="both"/>
