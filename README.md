@@ -52,7 +52,7 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 
 ---
 
-<h3 align="left">GitHub Statistics:</h3>
+<h3 align="left">♠️ GitHub Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szqore&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF">
 </p>
