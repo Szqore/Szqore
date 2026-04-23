@@ -44,7 +44,7 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 
 ---
 
-<h3 align="left">🫩 Languages and Tools::</h3>
+<h3 align="left">🫩 Languages and Tools:</h3>
 
 <p align="center">
   <img src="https://github.com/Szqore/Szqore/blob/main/java2.png?raw=true" width="100">
@@ -53,11 +53,15 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 ---
 
 <h3 align="left">♠️ GitHub Statistics:</h3>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szqore&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szqore&theme=graywhite">
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Szqore&show_icons=true&theme=graywhite">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szqore&layout=compact&theme=graywhite">
+</p>
 ---
 
 <h3 align="left">♦️ LeetCode Statistics:</h3>
