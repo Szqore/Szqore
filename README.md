@@ -56,12 +56,6 @@ I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szqore&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Szqore&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szqore&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000">
-</p>
 
 ---
 
