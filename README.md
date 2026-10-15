@@ -34,7 +34,7 @@
 
 <big><b>👁‍🗨 About Me:</b></big>
 
-I am a beginner Java programmer from Novosibirsk (Russia). 17 years old.
+I am a beginner Java programmer from Novosibirsk (Russia). 18 years old.
 
 - I am student
 - I'm a beginner and an unknown developer in Java
